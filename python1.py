@@ -19,7 +19,7 @@ time.sleep(2)
 print n1
 print n2
 
-n3 = n1+" "+n2
+n3 = n1 +" "+ n2
 
 webbrowser.open_new_tab('http://google.com/search?btnG=1&q=%s'%n3)
 
