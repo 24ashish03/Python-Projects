@@ -10,7 +10,7 @@ data= sys.argv[1: ]
 n1= data[0]
 n2= data[1]
 
-print ("please until two name swap")
+print ("please wait until inputs swap")
 
 time.sleep(1)
 
